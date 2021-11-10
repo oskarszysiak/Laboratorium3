@@ -29,5 +29,6 @@ int main()
          }
     }
     printf("Najmniejsza liczba w tej tablicy to %f a jej indeks to %d\n", najmniejsza, indeksnajmniejsza);
+    return 0;
 }
 

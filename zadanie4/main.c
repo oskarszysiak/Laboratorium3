@@ -15,5 +15,5 @@ int main()
         suma=suma+tab[p];
     }
     printf("Suma 10 liczb z tablicy wynosi %f", suma);
-
+    return 0;
 }

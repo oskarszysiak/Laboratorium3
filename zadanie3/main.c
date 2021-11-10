@@ -15,6 +15,5 @@ int main()
     {
         printf("%c", zdanie1[a]);
     }
-
-
+    return 0;
 }

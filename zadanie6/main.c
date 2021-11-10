@@ -20,5 +20,5 @@ int main()
     {
         printf("%d\t",tabodw[i]);
     }
-
+    return 0;
 }
